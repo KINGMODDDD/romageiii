@@ -31,8 +31,3 @@ key += characters.charAt(Math.floor(Math.random() * characters.length));
 }
 return key;
 }
-Файл не выбран
-Ещё
-
-
-
